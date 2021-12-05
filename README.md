@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maellet10
+- 👋 Hi, I’m Maellet
 - 👀 I’m interested in Software Development, DevOPs, Design, Data Science, Data Analysis and Linux System Administration...
 - 🌱 I’m currently learning and looking for opportunities to work with experience team of individuals
 - 💞️ I’m looking to collaborate on any of the areas of my interest.
